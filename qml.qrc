@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>BlueButton.qml</file>
+        <file>game.qml</file>
+        <file>start.qml</file>
+        <file>BoardView.qml</file>
+        <file>Field.qml</file>
+        <file>PartialScoreboard.qml</file>
+        <file>gameMultiplayer.qml</file>
+    </qresource>
+</RCC>
